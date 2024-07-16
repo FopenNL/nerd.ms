@@ -1,5 +1,6 @@
 command;alias;description;keywords;category;url
 az;azure;Azure;;Azure;https://portal.azure.com
+azm;azuremovesupport;Azure Move Support;;Azure;https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources/
 azp;azurepreview;Azure Preview Portal;;Azure;https://preview.portal.azure.com/
 azsentinel;sentinel;Sentinel;;Azure;https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
 arg;arge;Azure Resource Graph Explorer;;Azure;https://portal.azure.com/#view/HubsExtension/ArgQueryBlade?
